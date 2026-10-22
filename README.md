@@ -1,13 +1,11 @@
-# Learning DAML and Canton
+# DAML and Canton
 
 A working journal of my progress learning DAML, the smart contract language
 behind Canton, with the goal of building toward financial-instrument
-tokenization. I come to this from nine years of Solidity and Rust/Anchor
-smart contract development, and a prior career as an equity trader and options
-specialist on the American Stock Exchange floor, so my interest is the
-intersection of DAML and regulated financial instruments.
+tokenization. This is the next logical step after nine years of Solidity and Rust/Anchor
+smart contract development. It is also my interest is the intersection of DAML and regulated financial instruments.
 
-## What this covers
+## Current progress
 
 This repository works through the official DAML introduction, one section
 per folder, building up the core of the language:
