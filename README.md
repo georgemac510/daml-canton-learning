@@ -19,6 +19,9 @@ per folder, building up the core of the language:
 - **intro4** — choices: transforming contracts through controllers and the
   archive-and-create pattern, applied to a debt instrument (an IOU) through
   its full issue, transfer, and redeem lifecycle.
+- **intro5** — contract validation: `ensure` clauses that enforce structural
+  invariants on a contract, and guard conditions inside choices (assertions,
+  aborts, and time-based business rules).
 
 ## Notes
 
