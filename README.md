@@ -3,7 +3,7 @@
 A working journal of my progress learning DAML, the smart contract language
 behind Canton, with the goal of building toward financial-instrument
 tokenization. This is the next logical step after nine years of Solidity and Rust/Anchor
-smart contract development. It is also my interest is the intersection of DAML and regulated financial instruments.
+smart contract development. It is also my interest in the intersection of DAML and regulated financial instruments.
 
 ## Current progress
 
